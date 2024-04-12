@@ -1,0 +1,15 @@
+C:\Users\b-art\Documents\GitHub\CacheExercise\CacheExercise\bin\Debug\net8.0\CacheExercise.exe
+C:\Users\b-art\Documents\GitHub\CacheExercise\CacheExercise\bin\Debug\net8.0\CacheExercise.deps.json
+C:\Users\b-art\Documents\GitHub\CacheExercise\CacheExercise\bin\Debug\net8.0\CacheExercise.runtimeconfig.json
+C:\Users\b-art\Documents\GitHub\CacheExercise\CacheExercise\bin\Debug\net8.0\CacheExercise.dll
+C:\Users\b-art\Documents\GitHub\CacheExercise\CacheExercise\bin\Debug\net8.0\CacheExercise.pdb
+C:\Users\b-art\Documents\GitHub\CacheExercise\CacheExercise\obj\Debug\net8.0\CacheExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b-art\Documents\GitHub\CacheExercise\CacheExercise\obj\Debug\net8.0\CacheExercise.AssemblyInfoInputs.cache
+C:\Users\b-art\Documents\GitHub\CacheExercise\CacheExercise\obj\Debug\net8.0\CacheExercise.AssemblyInfo.cs
+C:\Users\b-art\Documents\GitHub\CacheExercise\CacheExercise\obj\Debug\net8.0\CacheExercise.csproj.CoreCompileInputs.cache
+C:\Users\b-art\Documents\GitHub\CacheExercise\CacheExercise\obj\Debug\net8.0\CacheExercise.sourcelink.json
+C:\Users\b-art\Documents\GitHub\CacheExercise\CacheExercise\obj\Debug\net8.0\CacheExercise.dll
+C:\Users\b-art\Documents\GitHub\CacheExercise\CacheExercise\obj\Debug\net8.0\refint\CacheExercise.dll
+C:\Users\b-art\Documents\GitHub\CacheExercise\CacheExercise\obj\Debug\net8.0\CacheExercise.pdb
+C:\Users\b-art\Documents\GitHub\CacheExercise\CacheExercise\obj\Debug\net8.0\CacheExercise.genruntimeconfig.cache
+C:\Users\b-art\Documents\GitHub\CacheExercise\CacheExercise\obj\Debug\net8.0\ref\CacheExercise.dll
