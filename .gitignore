@@ -28,7 +28,8 @@
 *.sql
 *.sqlite
 *.suo
-*.
+*.testlog
+*.manifest
 
 # OS generated files #
 ######################
@@ -57,11 +58,4 @@ TestResult.xml
 Version.cs
 Version.h
 Version.cpp
-CacheExercise/.vs/CacheExercise/v17/DocumentLayout.json
-CacheExercise/bin/Debug/net8.0/CacheExercise.pdb
-CacheExercise/bin/Debug/net8.0/nunit_random_seed.tmp
-CacheExercise/obj/Debug/net8.0/CacheExercise.AssemblyInfo.cs
-CacheExercise/obj/Debug/net8.0/CacheExercise.AssemblyInfoInputs.cache
-CacheExercise/obj/Debug/net8.0/CacheExercise.csproj.CoreCompileInputs.cache
-CacheExercise/obj/Debug/net8.0/CacheExercise.pdb
-CacheExercise/obj/Debug/net8.0/CacheExercise.sourcelink.json
+.vs/
