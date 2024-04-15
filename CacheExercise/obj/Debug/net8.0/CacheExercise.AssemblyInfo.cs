@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CacheExercise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+301bea4a1a07380764cb6e2a97330d43e41436f4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e79002be5dd88ff7925e974e580f220f7aac9b28")]
 [assembly: System.Reflection.AssemblyProductAttribute("CacheExercise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CacheExercise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
