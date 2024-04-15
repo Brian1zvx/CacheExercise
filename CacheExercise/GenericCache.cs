@@ -12,7 +12,7 @@ namespace CacheExercise
             _cacheSize = cacheSize;
         }
 
-        public object Add(int id, object value)
+        public object? Add(int id, object value)
         {
             var removedObject = new object();
             if(_objectCache.Count == _cacheSize) {
