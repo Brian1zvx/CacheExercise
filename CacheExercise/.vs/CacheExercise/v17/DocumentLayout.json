@@ -7,15 +7,8 @@
       "RelativeMoniker": "D:0:0:{3C4B74E0-274D-4E25-AA08-B56DF03DCF47}|CacheExercise.csproj|solutionrelative:cacheexercisetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C4B74E0-274D-4E25-AA08-B56DF03DCF47}|CacheExercise.csproj|c:\\users\\b-art\\documents\\github\\cacheexercise\\cacheexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C4B74E0-274D-4E25-AA08-B56DF03DCF47}|CacheExercise.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3C4B74E0-274D-4E25-AA08-B56DF03DCF47}|CacheExercise.csproj|c:\\users\\b-art\\documents\\github\\cacheexercise\\cacheexercise\\genericcache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C4B74E0-274D-4E25-AA08-B56DF03DCF47}|CacheExercise.csproj|solutionrelative:genericcache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\b-art\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Microsoft.NET.Test.Sdk.Program.cs",
-              "DocumentMoniker": "C:\\Users\\b-art\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
-              "ToolTip": "C:\\Users\\b-art\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T12:32:50.406Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -48,35 +28,22 @@
               "RelativeDocumentMoniker": "CacheExerciseTests.cs",
               "ToolTip": "C:\\Users\\b-art\\Documents\\GitHub\\CacheExercise\\CacheExercise\\CacheExerciseTests.cs",
               "RelativeToolTip": "CacheExerciseTests.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwAkAAAAYAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCIAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T10:41:22.255Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "GenericCache.cs",
               "DocumentMoniker": "C:\\Users\\b-art\\Documents\\GitHub\\CacheExercise\\CacheExercise\\GenericCache.cs",
               "RelativeDocumentMoniker": "GenericCache.cs",
               "ToolTip": "C:\\Users\\b-art\\Documents\\GitHub\\CacheExercise\\CacheExercise\\GenericCache.cs",
               "RelativeToolTip": "GenericCache.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwBcAAAARAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowBgAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-12T14:07:47.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\b-art\\Documents\\GitHub\\CacheExercise\\CacheExercise\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\b-art\\Documents\\GitHub\\CacheExercise\\CacheExercise\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T13:22:12.553Z",
               "EditorCaption": ""
             }
           ]
