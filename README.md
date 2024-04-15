@@ -1,5 +1,4 @@
 # CacheExercise
  Create a resuable Cache
 
-Timing Notes. Day 1 - 90 Minutes of coding time
-Day 2 45 Minutes coding
+Timing Notes - Total Time coding about 7 hours including Test Cases.
