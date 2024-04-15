@@ -12,4 +12,4 @@ for (int i = 0; i < 10; i++)
     }
 }
 var newObjectRemoved = test.Add(10, "Value at: 10");
-Console.WriteLine(newObjectRemoved.ToString());
+Console.WriteLine(newObjectRemoved?.ToString());

@@ -3,9 +3,10 @@ namespace CacheExercise
 {
     public class GenericCache
     {
+        private int _cacheSize;
         private Dictionary<int, object> _objectCache;
         private Queue<int> _ids;
-        private int _cacheSize;
+        
         public GenericCache(int cacheSize) { 
             _ids = new Queue<int>(cacheSize);
             _objectCache = new Dictionary<int, object>(cacheSize);

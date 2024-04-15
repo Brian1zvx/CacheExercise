@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\b-art\\Documents\\GitHub\\CacheExercise\\CacheExercise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C4B74E0-274D-4E25-AA08-B56DF03DCF47}|CacheExercise.csproj|c:\\users\\b-art\\documents\\github\\cacheexercise\\cacheexercise\\genericcache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C4B74E0-274D-4E25-AA08-B56DF03DCF47}|CacheExercise.csproj|solutionrelative:genericcache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3C4B74E0-274D-4E25-AA08-B56DF03DCF47}|CacheExercise.csproj|c:\\users\\b-art\\documents\\github\\cacheexercise\\cacheexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C4B74E0-274D-4E25-AA08-B56DF03DCF47}|CacheExercise.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4B74E0-274D-4E25-AA08-B56DF03DCF47}|CacheExercise.csproj|c:\\users\\b-art\\documents\\github\\cacheexercise\\cacheexercise\\genericcache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4B74E0-274D-4E25-AA08-B56DF03DCF47}|CacheExercise.csproj|solutionrelative:genericcache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GenericCache.cs",
               "DocumentMoniker": "C:\\Users\\b-art\\Documents\\GitHub\\CacheExercise\\CacheExercise\\GenericCache.cs",
               "RelativeDocumentMoniker": "GenericCache.cs",
               "ToolTip": "C:\\Users\\b-art\\Documents\\GitHub\\CacheExercise\\CacheExercise\\GenericCache.cs",
               "RelativeToolTip": "GenericCache.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-12T14:07:47.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\b-art\\Documents\\GitHub\\CacheExercise\\CacheExercise\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\b-art\\Documents\\GitHub\\CacheExercise\\CacheExercise\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-12T13:22:12.553Z",
               "EditorCaption": ""
